@@ -12,5 +12,4 @@
 | 8  | HTML Color Codes        | Tool to find color codes for websites            | <a href="https://htmlcolorcodes.com/" target="_blank">Visit</a> |
 | 9  | CSS Tricks HTML Guide   | Tips and tricks for HTML & CSS                   | <a href="https://css-tricks.com/guides/html/" target="_blank">Visit</a> |
 | 10 | GitHub Pages| Host your HTML project freely on GitHub          | <a href="https://pages.github.com/" target="_blank">Visit</a> |
-
-| 11 | Quiz Form        | Submit The form to test your Knowledge | <a href="https://pages.github.com/" target="_blank">Visit</a> |
+| 11 | Quiz Form | Submit The form to test your Knowledge | <a href="https://pages.github.com/" target="_blank">Visit</a> |
